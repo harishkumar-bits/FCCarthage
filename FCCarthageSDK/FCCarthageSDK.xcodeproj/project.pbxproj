@@ -15,6 +15,8 @@
 		EA568F3721262B6F006C7AEB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA568F3621262B6F006C7AEB /* CoreGraphics.framework */; };
 		EA568F3921262B76006C7AEB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA568F3821262B76006C7AEB /* UIKit.framework */; };
 		EA60B59F2126C3290068BAF2 /* FreshchatModels.bundle in Resources */ = {isa = PBXBuildFile; fileRef = EA568F1D212620B7006C7AEB /* FreshchatModels.bundle */; };
+		EA60B5C82127161B0068BAF2 /* FCLocalization.bundle in Resources */ = {isa = PBXBuildFile; fileRef = EA568F1A212620B6006C7AEB /* FCLocalization.bundle */; };
+		EA60B5C92127161D0068BAF2 /* FCResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = EA568F1C212620B7006C7AEB /* FCResources.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -168,6 +170,8 @@
 				EA568F20212620B8006C7AEB /* ReleaseNotes.txt in Resources */,
 				EA60B59F2126C3290068BAF2 /* FreshchatModels.bundle in Resources */,
 				EA568F1E212620B8006C7AEB /* LICENSE in Resources */,
+				EA60B5C92127161D0068BAF2 /* FCResources.bundle in Resources */,
+				EA60B5C82127161B0068BAF2 /* FCLocalization.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
