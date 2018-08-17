@@ -29,8 +29,7 @@ Freshchat requires
 
 **FCResources.bundle** - Theme customization
 
-Under root folder https://github.com/harishkumar-bits/FCCarthage/Resources download ```FCLocalization.bundle``` 
-and ```FCResources.bundle``` and add them into your project.
+Under root folder https://github.com/harishkumar-bits/FCCarthage/Resources download Resources.zip. Unzip it and add  ```FCLocalization.bundle``` and ```FCResources.bundle``` into your project.
 
 ### Initilization
 
